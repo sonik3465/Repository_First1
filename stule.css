@@ -1,0 +1,71 @@
+.summary{
+	padding: 0 10%;
+
+
+}
+
+.photo{
+	width: 30%;
+	padding: 10px;
+	border-radius:  10px;
+	margin: 0 20px 1.5rem auto;
+	background-color: red;
+	float: left;
+}
+
+.photo img {
+	width: 100%;
+}
+
+.photo .caption{
+	font-size: 17px;
+	font-family: serif;
+	color: white;
+
+}
+
+.summary h2{
+	color: #344b38;
+	font-size: 28px;
+
+}
+
+.summary h5{
+	color: #344b38;
+	font-size: 10px;
+
+}
+
+h2{
+	clear: left;
+
+}
+
+.p_top { 
+
+	padding: 10px;
+	font-size: 25px;
+
+
+}
+
+
+.p_bottom { 
+
+	padding: 10px;
+	font-size: 25px;
+
+
+}
+
+.footer{
+	clear: left;
+	padding: 20px;
+	text-align: center; 
+	background: #344b38;
+	color: white;
+	margin-top: 20px;
+
+
+
+}
